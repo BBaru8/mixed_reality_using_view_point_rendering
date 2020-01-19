@@ -1,6 +1,7 @@
 # Mixed Reality with view point rendering using user interaction.
 This is a class project implemented by Bithi Barua, Jaideep Bommidi,  Kazi Ahmed Asif Fuad and Rupayan Mallick for the course Augmented and Virtual Reality. 
 This project consists of applications of Computer Graphics and Computer Vision. It is implemented using Unity3D(Version 2018.4.10f1), OpenCV(Version 4.0.0) and Python 3.6.
+
 [//]: # (References)
 [left1]: ./images/left_1.png
 [left2]: ./images/left_2.png
